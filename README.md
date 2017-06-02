@@ -1,2 +1,4 @@
 # kilo
-Building my text editor following this guide http://viewsourcecode.org/snaptoken/kilo/
+antirez's kilo rebuilt from scratch for the learning experience
+
+Plan on adding aditional features when I find the time.
